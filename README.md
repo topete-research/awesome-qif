@@ -16,5 +16,7 @@
   > A framework to transform programs in QIF programs written in kuifje.
 - [gleisonsdm/Kuifje-Documentation](https://github.com/gleisonsdm/Kuifje-Documentation)
   > A documentation for Kuifje Language.
+- [ramongonze/qif-graphics](https://github.com/ramongonze/qif-graphics)
+  > A visualization tool for Quantitative Information Flow.
 
 # Research groups
