@@ -9,7 +9,9 @@ A curated list of Quantitative Information Flow (QIF) projects, tools, and resou
   > 
   > Unified, self-contained, and comprehensive presentation of QIF, with numerous exercises, suitable for students and researchers.
 
-# Main papers
+# Papers
+
+## Award-winning papers
 
 - [On the Foundations of Quantitative Information Flow](https://link.springer.com/chapter/10.1007/978-3-642-00596-1_21) (2009)
   > Author: Geoffrey Smith.
@@ -20,6 +22,20 @@ A curated list of Quantitative Information Flow (QIF) projects, tools, and resou
   > Authors: Mário S. Alvim, Konstantinos Chatzikokolakis, Annabelle McIver, Carroll Morgan, Catuscia Palamidessi, and Geoffrey Smith.
   > 
   > Awarded the [NSA's 3rd Annual Best Scientific Cybersecurity Paper](https://cps-vo.org/node/21539#winning).
+
+## Foundational papers
+
+- [Quantitative analysis of the leakage of confidential data](https://www.sciencedirect.com/science/article/pii/S1571066104002907) (2001)
+  > Authors: David Clark, Sebastian Hunt, and Pasquale Malacaria.
+
+- [Assessing security threats of looping constructs](https://dl.acm.org/doi/abs/10.1145/1190216.1190251) (2007)
+  > Author: Pasquale Malacaria.
+
+- [Anonymity protocols as noisy channels](https://www.sciencedirect.com/science/article/pii/S0890540107001241) (2008)
+  > Authors: Konstantinos Chatzikokolakis, Catuscia Palamidessi, and Prakash Panangaden.
+
+- [The Thermodynamics of Confidentiality](https://ieeexplore.ieee.org/abstract/document/6266166) (2012)
+  > Authors: Pasquale Malacaria and Fabrizio Smeraldi.
 
 # General tools & libraries
 
